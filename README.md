@@ -39,7 +39,7 @@ Notes from Startup School 2019
                 * Acquisition [$0 -cost to acquire new users-] (can’t count paid channels here!) (WOM is the best)
                 * Monopoly [growth = harder for others to defeat you] ( growth of network = growth of company value, marketplaces where one company can win it)
           * (Good examples of unfair advantages in slides!)
-    * 👨‍💻 Amazing talk overall. I think every one should watch it. Even if you don't currently have a startup idea.
+* 👨‍💻 Amazing talk overall. I think every one should watch it. Even if you don't currently have a startup idea.
 
 ### [How to Talk to Users](https://www.startupschool.org/videos/63)
 ### [Week 1 Lectures Q&A](https://www.startupschool.org/videos/83)
