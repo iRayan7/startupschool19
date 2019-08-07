@@ -1,7 +1,7 @@
 <center><img src="https://www.upgraded.fi/wp-content/uploads/2019/07/startupschool.png" width="200" />
 
 ### Startup School 2019
-Notes from Startup School 2019
+Notes from Y Combinator's Online Startup School 2019
 </center>
 
 ---
