@@ -47,9 +47,9 @@ Notes from Startup School 2019
     * Write code. (build your product)
     * Talk to users.
 * The Mom Test:
-    1. Talk about their life, not your idea. (extract data to help improve your product. not the time to sell your product to them)
-    2. Talk specifics, not hypotheticals.
-    3. Listen, don’t talk.
+    1. Talk about their life, _not your idea_. (extract data to help improve your product. not the time to sell your product to them)
+    2. Talk specifics, _not hypotheticals_.
+    3. Listen, _don’t talk_.
 * Great questions you can ask in every user interview:
     1. What’s the hardest part about [doing this the thing]?
     2. Tell me about the last time you encountered that problem… (context)
@@ -57,8 +57,8 @@ Notes from Startup School 2019
     4. What, if anything, have you done to try to solve the problem? (is the problem burning enough for others to consider your solution. what your solution will be compared to)
     5. What don’t you love about the solution you’ve tried? (basis of you feature set)
 * Talking to users is useful at all stages:
-    * Got idea? -> find users with problem
-        * Idea Stage
+    * Got idea? -> _find users with problem_
+        * _Idea Stage_
             * Finding first users with problem:
                 * Friends, coworkers, intros
                 * Drop by in person!
@@ -67,15 +67,15 @@ Notes from Startup School 2019
                 * Take detailed notes. (you never know which is useful until later)
                 * Keep it casual. 
                 * Careful with their time. (10-15 min max)
-    * Built prototype -> best first customers 
-        * Prototype Stage
+    * Built prototype -> _best first customers_ 
+        * _Prototype Stage_
             * Identify best first customers
             * Find numerical answers to:
                 * How much does this problem cost them?
                 * How frequent is the problem?
                 * How large is their budget?
-    * Launched -> find product market fit
-        * Launched Stage
+    * Launched -> _find product market fit_
+        * _Launched Stage_
             * Iterate towards Product Market Fit
             * Tips:
                 * Ask for phone # during sign up.
