@@ -86,6 +86,38 @@ Notes from Startup School 2019
 ### [Week 1 Lectures Q&A](https://www.startupschool.org/videos/83)
 #### WEEK 2
 ### [How to Plan an MVP](https://www.startupschool.org/videos/65)
+* MVP (Minimum Viable Product): The first thing you can give to the first set of users to see if you can deliver any value to them.
+* Talk to users before building any MVP -or writing any code-.
+* Goal of any pre-launch startup:
+    * Lunch quickly (MVP) [single most important info in this presentation is to launch something bad quickly].
+    * Get initial customers.
+    * Talk to customers and get feedback. [Hold your problem tightly, hold your customer tightly, hold the solution loosely]
+    * Iterate (improve your product).
+* Lean MVP (in most cases):
+    * Very fast to build (Weeks not months)
+    * Very limited functionality.
+    * Appeal to a small set of users.
+    * Base to iterated from.
+*  Heavy MVP (in very few cases):
+    * Significant regulations (insurance, banking)
+    * Hardtech
+    * Biotech
+    * Moonshot
+* Launch simply means to start getting customers.
+* Learning from customers is easier with an MVP than without. (putting something in front of users to see if that solves their problem)
+* Hacks for building an MVP quickly:
+    * Timebox your spec 
+    * Write your spec [To control change]
+    * Cut your spec
+    * Don’t fall in love with your MVP! [it’s just a first step in a journey]
+* Q/A
+    * Don’t ask users about features they want in your product, it’s your job to come up with features. Ask them about the problem itself, How frequent, intense? are they going to pay to solve it? do they know any other people who suffer from the same problem?
+    * I’m stuck in the cycle where I keep changing the MVP and never launch? Stop doing what you are doing. Stop seeing your MVP as special, it doesn’t have to be perfect.
+    * Key-value of MVP? To see whether your solution is solving the problem.
+    * Don’t solve the problem for all users.
+    * There are a lot of times where a founder has to keep two things in mind at the same time: Vision big and MVP small. Grow and Retain. Investor pitch and Customer pitch. Founders always wanna smoosh these things together or kill one because it’s much easier to think of it as a single problem.
+* 👨‍💻 Great solutions for common mistakes.
+
 ### [How to Set KPIs and Goals](https://www.startupschool.org/videos/64)
 ### [Analytics for Startups](https://www.startupschool.org/videos/84)
 #### WEEK 3
