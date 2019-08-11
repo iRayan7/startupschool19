@@ -119,6 +119,29 @@ Notes from Y Combinator's Online Startup School 2019
 * 👨‍💻 Great solutions for common mistakes.
 
 ### [How to Set KPIs and Goals](https://www.startupschool.org/videos/64)
+* KPI (Key Performance Indicator): A set of quantitative metrics that indicate how healthy your business is doing.
+    * Primary metric: The one metric that if you had to you would bet the whole company on.
+        * Why only one metric? To focus and keep it simple. 
+        * The job of this metric? To quickly determine how well your startup is doing.
+        * Characteristics of a good primary metric:
+            * Represent delivery of real value
+            * Capture recurring value
+            * Lagging indicator (users gave out money of time to use your product)
+            * Usable as a feedback mechanism.
+        * Revenue: Nothing can tell more about delivering value than revenue. suits 99% of startups. usually MRR (Monthly Recurring Revenue)
+        * Active Users: When your startup is network based (Advertising business model like facebook). Huge network effect (e.g. Marketplace: where you need users for it to get going)
+    *  Secondary metrics: (3-5 north stars metrics, where you choose along with a primary one to get 360° overview of the health of your company)
+* Goals: set weekly % growth rate (weekly because you need frequent feedback from users and to divide the progress you need into doable chunks)
+    * Do things that don’t scale to achieve your weekly goal. Don’t worry too much about the final goal.
+    * Guidelines on defining a goal:
+        * Fast initial growth (usually growth gets slow after some time)
+        * Time to sale (how long does it take to acquire a user and make a sale)
+        * Organic vs paid (Focus on organic [WOM, search engines]. using paid users in the beginning is cheating growth)
+        * Exponential vs linear
+* How to leverage your primary metric and goal?
+    * Week to wee stack rank all the ideas you have of how to grow. and choose what would have the biggest impact on meeting your next week's goal)
+* Q/A
+    * LTV (Customer lifetime value) should not be paired with CAC (Customer acquisition cost). When you are focused on paid growth look at payback period (0 days?).
 ### [Analytics for Startups](https://www.startupschool.org/videos/84)
 #### WEEK 3
 ### How Investors Measure Consumer Startups
