@@ -143,6 +143,39 @@ Notes from Y Combinator's Online Startup School 2019
 * Q/A
     * LTV (Customer lifetime value) should not be paired with CAC (Customer acquisition cost). When you are focused on paid growth look at payback period (0 days?).
 ### [Analytics for Startups](https://www.startupschool.org/videos/84)
+* Why analytics and data?
+    1. Test product market fit.
+    2. Focus the team.
+    3. Operate/grow the company.
+* Funnels: Sequential series of steps your users go through to actually get value and then pay you.
+    * Typical funnel for B2B and B2C companies: you acquire a user, engage him over a period of time (this loop is called retention) and then monetize him.
+    * Metrics both primary and secondary are performance indicators on top of each stage in the funnel.
+        1.  On top of Acquisition: How many signups this week vs last?
+            * Signups per week
+        2. On top of Engagement: How many users are re-engaged week over week?
+            * Retention cohorts
+                * Which metric do you pick? a metrics that represent value (Airbnb -> Bookings, Uber -> rides)
+                * 
+        3. On top of Monetize: How much revenue are we making week over week?
+            * Revenue
+* Stack over time: 
+    * 
+    * Open as much communication channels with your customers as you can.
+    * [10:07 -> 13:18 must watch if interested)
+* Best in class tools:
+    * Improving product usability:
+        * [fullstory](https://www.fullstory.com/): to watch how users interact with your product.
+        * Small usability issues might drive metrics down!
+    * 43-min founder email:
+        * [customer.io](https://cutomer.io): you can specify a certain amount time to send an email from founders after user signup.
+        * A way to start the connection between you and the users.
+    * Democratize data access:
+        * [Google big query and Mode](https://mode.com/big-query/): to find answers to questions normal data analytics tools can’t answer.
+        * Good after PMF stage.
+    * Tools change -every 2 years-, don’t overthink which tool to choose. Just pick one and set your self up for change.
+* A nice gift for early-stage startups! checkout slide 36.
+* 👨‍💻 Very practical talk. Recommend it to after MVP stage startups.
+
 #### WEEK 3
 ### How Investors Measure Consumer Startups
 ### How Investors Measure B2B Startups
