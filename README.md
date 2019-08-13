@@ -148,7 +148,7 @@ Notes from Y Combinator's Online Startup School 2019
     2. Focus the team.
     3. Operate/grow the company.
 * Funnels: Sequential series of steps your users go through to actually get value and then pay you.
-    * Typical funnel for B2B and B2C companies: you acquire a user, engage him over a period of time (this loop is called retention) and then monetize him.
+    * Typical funnel for B2B and B2C companies: you __acquire__ a user, __engage__ him over a period of time (this loop is called __retention__) and then __monetize__ him.
     * Metrics both primary and secondary are performance indicators on top of each stage in the funnel.
         1.  On top of Acquisition: How many signups this week vs last?
             * Signups per week
