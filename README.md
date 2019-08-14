@@ -177,8 +177,79 @@ Notes from Y Combinator's Online Startup School 2019
 * 👨‍💻 Very practical talk. Recommend it to after MVP stage startups.
 
 #### WEEK 3
-### How Investors Measure Consumer Startups
-### How Investors Measure B2B Startups
+### [Nine Business Models and the Metrics Investors Want](https://www.startupschool.org/videos/66)
+* Nine “verticals” based on __business models__, not industry:
+    * Enterprise:
+        * Sells services or software to a large enterprise.
+        * Examples: Docker, Cloudera.
+        * Metrics:
+            * Bookings
+            * Total customers
+            * Revenue
+    * SAAS:
+        * software-as-a-service company sells subscription based license for a cloud-hosted software solution.
+        * Examples: Segment
+        * Metrics:
+            * MRR (Monthly recurring revenue)
+            * ARR (Annual recurring revenue)
+            * Gross MRR Churn
+            * Paid CAC (cost per customer acquired through paid marketing channel)
+    * Usage-based
+    * Subscription:
+        * Sells a product or a service on a recurring bases.
+        * Exampled: Dollar shave club, Blue Apron.
+        * Metrics:
+            * MRR
+            * MRR CMGR (Compound monthly growth rate): (latest month MRR / first month MRR) ^ (1/ # of months) -1.
+            * Gross user churn: total lost customers (cancelled subscriptions) in a given period / prior period total customers.
+            * Paid CAC
+    * Transactional:
+        * Enables a financial transaction on behalf of a customer and collects a fee.
+        * Examples: Stripe, Paypal, Coinbase, RevenueCat?
+        * Metrics:
+            * Gross transaction volume
+            * Net revenue 
+            * User retention
+            * Paid CAC
+    * Marketplace:
+        * Acts as an intermediary in the sale of a good or a service.
+        * Examples: Airbnb, Uber, Ebay.
+        * Metrics:
+            * GMV (Gross Merchandise Value): total sale in a given period.
+            * Net revenue
+            * Net revenue CMGR
+            * User retention
+            * Paid CAC
+    * E-commerce:
+        * Sells goods online.
+        * Examples: Warby Parker.
+        * Metrics:
+            * Monthly revenue
+            * Revenue CMGR
+            * Gross margin
+            * Paid CAC
+    * Advertising:
+        * Offers a free service and drives revenue from advertisers.
+        * Examples: Twitter, Snapchat.
+        * Metrics:
+            * Daily active users
+            * Monthly active users
+            * Percent logged-in
+    * Hardware:
+        * Sells physical devices.
+        * Examples: Fitbit, GoPro.
+        * Metrics:
+            * Monthly revenue
+            * Revenue CMGR
+            * Gross margin
+            * Paid CAC
+    * Presenting metrics -> Common mistake / solutions
+        * Cumulative charts / monthly data
+        * Not labeling Y-axis / label with the right detail
+        * Changing Y-axis scale / X and Y intersect at zero
+        * Showing only % gains / Show absolute number and %
+
+### [How Investors Measure Startups Q&A](https://www.startupschool.org/videos/85)
 #### WEEK 4
 ### How to Launch (Repeatedly)
 ### The Mechanics of Growth
