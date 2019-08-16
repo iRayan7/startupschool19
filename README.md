@@ -250,6 +250,15 @@ Notes from Y Combinator's Online Startup School 2019
         * Showing only % gains / Show absolute number and %
 
 ### [How Investors Measure Startups Q&A](https://www.startupschool.org/videos/85)
+*  How investors measure startups at early stages?
+    * Team (Most important) (Why your are working on this idea? your clarity of thought? How good are you with convincing others? If an investor gives you capital you know what to do with it?) 
+    * Product market fit
+    * Market opportunity 
+* When to fundraise?
+    1. You need the money to grow
+    2. You are willing to give up equity to grow
+    3. You clearly know the milestone this money will get your company
+
 #### WEEK 4
 ### How to Launch (Repeatedly)
 ### The Mechanics of Growth
