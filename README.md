@@ -260,7 +260,44 @@ Notes from Y Combinator's Online Startup School 2019
     3. You clearly know the milestone this money will get your company
 
 #### WEEK 4
-### How to Launch (Repeatedly)
+### [How to Launch (Repeatedly)](https://www.startupschool.org/videos/68)
+* Why launch constantly?
+    * A/B test your short pitch
+    * See how users respond to your product
+    * Launching to different audiences: Are you talking to the right users?
+* Types of launches:
+    * Silent Launch (you can use [ship](https://www.producthunt.com/ship) or [carrd](https://carrd.co)
+        * Domain name
+        * Company name
+        * Short description
+        * Contact
+        * Call to action (subscribe to our newsletter, get email when we launch)
+    * Friends and Family
+    * Strangers (Go out to your users and introduce your product to them!)
+    * Online Communities
+        * Reddit
+        * Hackernews
+        * Product Hunt
+        * (Don’t use marketing language, no jargon. Talk as if you are explaining it to a human)
+        * How?
+            * Introduce your self
+            * What are you building?
+            * Who are you building it for?
+            * Why?
+            * Interesting insights?
+    * Request for access
+        * Request for early access
+        * Add some viral elements to it (share to skip waiting line)
+    *  Social Media
+        * Relevant blogs (Look for blogs with good SEO when searching for common words regarding your product)
+    * Pre-order
+        * For physical products.
+    * New product/feature
+        * Pressing every launch button with new products/features
+    * Build your own community
+        * Email list (add people interested in your product to a mailing list and send updates every once in a while. When launching your product ask them to help spreading the word about it)
+* Launching is not a one moment in time.
+* 👨‍💻Good talk. Lots of interesting stories and good ideas. 
 ### The Mechanics of Growth
 #### WEEK 5
 ### How to Avoid Startup Finance Pitfalls
