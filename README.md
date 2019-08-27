@@ -298,7 +298,65 @@ Notes from Y Combinator's Online Startup School 2019
         * Email list (add people interested in your product to a mailing list and send updates every once in a while. When launching your product ask them to help spreading the word about it)
 * Launching is not a one moment in time.
 * 👨‍💻Good talk. Lots of interesting stories and good ideas. 
-### The Mechanics of Growth
+### [Growth for Startups](https://www.startupschool.org/videos/69)
+* Most startups don’t have PMF. Founders convince them selfs they do, but they don’t 😞 
+* If you build it, they _won’t_ come! (people are used to working on big companies where this isn’t a problem!)
+* As a founder you must keep in mind these two skills:
+    * At the beginning of your company, you will do so many things that don’t feel right. Physical and real stuff that don’t feel relevant later on.
+    * When your company grows bigger, you are gonna do things that relate directly to software, that scale your company.
+* One way to grow when you are small: Doing things that don’t scale.
+*  PMF:
+    * How to know if you’ve reached PMF?
+        1. Identify the __metric__ that represent the value my users get from my product.
+        2. Measure the repeat usage of that metric
+    *  Other (worse) ways to measure PMF:
+        1. Net promoter score - not great
+        2. Surveys - often biased
+        3. "How would you feel if you can no longer use this product"
+    * Other not good metrics for PMF:
+        1. Registered users
+        2. Visitors
+        3. “Conversion rate"
+        4. “Customers that aren’t paying"
+* Growth channels & tactics (Don’t do this before PMF. There’s no need for this with users that churn so fast):
+    1. Product growth / conversion rate optimization (engineers, designers, data scientists, product managers)
+        1. Your product is a funnel/growth loop
+        2. Every step in the funnel have drop-off
+            * Content/Copy
+            * Internationalization
+            * Authentication (critical flow/ users are vulnerable)
+            * On-boarding
+            * Purchase conversion 
+    2. Growth channels
+        * rare behavior/ people use google to find a solution? -> Google SEO & SEM
+            * SEO:
+                * On-page optimization:
+                    * Every optimization starts with keyword research.
+                    * Which page am I trying to rank for that keyword?
+                    * SEO experimentation
+                * Off-page optimization:
+                    * Who is linking to you? (More link from press and blogs will get you higher)
+        * do current users already share your product via word-of-mouth? (Uber, Airbnb) -> Virality & Referrals
+            * Referrals:
+                * WOM is Airbnb’s largest growth driver
+                * Referrals are engineered WOM.
+        * Does having more users improve the experience? (Marketplaces, LinkedIn, facebook) -> Virality
+        * Do I already know who each of my future users is? -> Sales
+        * Do my users have high LTV? -> Paid acquisition (Google, facebook)
+            * Pain Growth:
+                * Don’t do paid growth if you don’t have revenue (common mistake)
+                * CAC = Customer acquisition cost
+                * CAC / Payback time (the most important metric in online marketing)
+                * Channels: Google, facebook, Appstore and play store for apps.
+        * Most companies grow huge using 1 or 2 of these channels!
+* Making decisions using A/B testing:
+    * Most startups at early stages don’t need A/B testing, it won’t matter at all. It’s a great decision making tool later on.
+    * A/B test calculator (Search on google)
+* Summary:
+    1. Start by doing things that don’t scale
+    2. Measure your retention / PMF
+    3. Build a culture of experimentation (use data to make decisions and not follow the loudest sound in the room)
+
 #### WEEK 5
 ### How to Avoid Startup Finance Pitfalls
 ### Improving Cofounder Communication
