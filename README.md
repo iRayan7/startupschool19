@@ -358,7 +358,46 @@ Notes from Y Combinator's Online Startup School 2019
     3. Build a culture of experimentation (use data to make decisions and not follow the loudest sound in the room)
 
 #### WEEK 5
-### How to Avoid Startup Finance Pitfalls
+### [Startup Finance Pitfalls and How to Avoid Them](https://www.startupschool.org/videos/70)
+
+* It’s surprisingly easy to run out of cash.
+* Not knowing what numbers to look at (to ensure the health of your company finically)
+    * Know this:
+        * Bank balance
+        * Money coming in
+        * Money going out
+    * Calculate this:
+        * Burn -> Money in - Money out
+        * Runway (# of months till you run out of money) -> Bank balance / Average burn
+        * Growth rate -> Money in (Month 2) - Money in (Month 1) / Money in (Month 1)
+        * Default alive? -> if (expenses = constant) && if (revenue growth = continues): [Do you have enough cash to reach profitability?] [startup growth calculator](https://growth.tlb.org) [Default alive or default dead?](https://paulgraham.com/aord.html)
+* Not looking too often (you should look at it every week)
+* Under-representing expenses:
+    * Expenses don’t remain constant:
+        * undervaluing your own time
+        * Hiring people doesn’t just cost their salary (equipments, health insurance, office space)
+        * Assuming paid acquisition remain constant (in the early days you might find users who are excited to use your product, and over time it gets harder to find and convert users. Assume and predict the worst case scenario so you can manage it well)
+        * Don’t ignore to make runway look good! (numbers don’t lie and money will finish eventually)
+* Out-sourcing responsibility:
+    * It’s recommended to outsource bookkeeping and focus on what really matters. But at the same time you as a founder/CEO are the one responsible for the numbers.
+* Scaling too quickly:
+    * It’s easy to fall in this pitfall.
+    * The best startups do more with less.
+    * You should avoid hiring before PMF.
+    * More employees do not help you reach PMF.
+* Letting runway get too low before fundraising:
+    * Always assume you’ll never raise money again.
+    * Seed stage money will help you reach PMF.
+    * Series A and beyond expect sustained growth.
+    * Your runway gives you leverage.
+    * [Advice for Companies With Less Than 1 Year of Runway](https://blog.ycombinator.com/advice-startups-running-out-of-money/)
+* How to not run out of money?
+    * Know your cash balance and runway at all times.
+    * Understand how your expenses are going to increase over time.
+    * Understand that a high ration of revenue: employees is a better metric than # of employees.
+    * Assume you’ll never raise again, so have a plan for reaching profitability.
+
+
 ### Improving Cofounder Communication
 #### WEEK 6
 ### How to Create a Healthy Culture
