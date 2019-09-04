@@ -400,7 +400,42 @@ Notes from Y Combinator's Online Startup School 2019
 
 ### Improving Cofounder Communication
 #### WEEK 6
-### How to Create a Healthy Culture
+### [Building Culture](https://www.startupschool.org/videos/72)
+
+* Culture is behavior. Implicit set of behaviors inside your company. They should inform the employees how to behave if it hasn’t been explicitly laid out for them.
+* Right behaviors -> Good business
+* Stages of companies: Idea stage ->  PMF -> Scaling
+* The (~20) employees before scaling are the DNA of your companies culture.
+* 6 thing you can do now:
+    1. Be proud of the problem you are solving.
+    2. Create a long time vision that others will follow.
+        * Tesla: To accelerate the world’s transition to sustainable energy.
+        * Microsoft: A computer on every desk and in every home.
+        * Google: Organize the world’s information and make it universally accruable and useful.
+    3. List your values then model the behavior.
+        * Spotify:
+            * Innovative
+            * Collaborative
+            * Sincere
+            * Passionate
+            * Playful
+            * Innovative
+        * Atlassian:
+            * Open company, no bullshit.
+            * Build with heart and balance.
+            * Don't #@!% the customer.
+            * Play, as a team.
+            * Be the change you seek.
+    4. Align your culture with your customer.
+        * Examples of internally-focused culture:
+            * Facebook’s "Move fast and break things”.
+            * Googls’s “Don’t be evil”.
+            * 
+    5. Talk about the importance of diversity to your company.
+        * Diversity of opinions. (Very important)
+    6. Put a hiring process into practice, plan to evolve it.
+* It’s not too early to start today!
+
 ### When and How to Pivot
 #### WEEK 7
 ### How to Improve Conversion Rates
