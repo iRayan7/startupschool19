@@ -398,7 +398,69 @@ Notes from Y Combinator's Online Startup School 2019
     * Assume you’ll never raise again, so have a plan for reaching profitability.
 
 
-### Improving Cofounder Communication
+### [How to Work Together](https://www.startupschool.org/videos/71)
+
+* Founders need to optimize a relationship that can last for 10 years.
+*  The four horsemen (To avoid when fighting):
+    * Criticism (not addressing the one issue in hand, instead, bringing other issues to the conversation)
+    * Contempt (intention to insult)
+    * Defensiveness (someone not owning responsibility to the problem)
+    * Stonewalling (not engaging, not talking)
+* Make a plan before you fight:
+    * Divide and conquer (who’s responsible/decision maker for what ex: finance, product, hiring)
+    * Once you decide ownership -> determine success and failure. (what can trigger conversation and serious talk when things go south)
+    * Know your self:
+        * What’s your attachment style (How people approach relationships):
+            * Secure (don’t mind been vulnerable, relying on each other)
+            * Anxious (want to feel loved all the time)
+            * Avoidant (it’s scary, and i’m afraid I will ruin it up)
+        * What’s your cofounder's attachment style?
+            * Anxious(need constant validation to make decisions/solve conflicts ) and Avoidant (need space to make decisions/resolve conflicts) are the most common in the world!
+        * [What Is Your Attachment Style?](https://www.youtube.com/watch?v=2s9ACDMcpjA)
+    * Document a process
+        * When you are emotionally sober, make a process to deal with disagreements.
+        * [Decision Disagreement Framework - How we encourage disagreements at Matter](https://matterapp.com/blog/decision-disagreement-framework-how-we-encourage-disagreements-at-matter/)
+        * There are a lot of ways. You just all have to agree ahead of time.
+    * Use non violent communication
+        * Nonviolent communication (Book). “When [observation], I feel [emotion] because I’m needing some [universal needs]. Would you be able to [request]?"
+        * Observation vs Evaluation (disagreement/criticism should about an observation(You haven’t finished this task for a week) , not an evaluation/opinion (you are lazy!)
+        * Emotion vs Thoughts (don’t say thoughts talk about feelings) (I feel frustrated / I think you are not taking this seriously) (to know if this is a feeling or a thought, is to substitute the phrase I think with I feel and it still  works)
+        * Universal needs
+            * (I need to be CCde in every email you send! - instead use a universal need - I need transparency! ) 
+            * Everybody can agree on universal needs.
+            * Avoid (I need support **from you**) since this makes it non universal.
+        * Requests vs Needs
+            * Requests an invitation for the other poison to meet our universal needs.
+            * Make it very specific.
+            * Say what you want (not what you don’t want).
+            * Stay curious.
+        * [How to Deliver Constructive Feedback in Difficult Situations](https://medium.com/s/please-advise/the-essential-guide-to-difficult-conversations-41f736e63ccf)
+    * Pay down your emotional debt
+        * Pay this down every day.
+        * In successful relationships: you don’t resolve big conflicts, you resolve the conflict when it’s small and you don’t let it grow ever.
+    * Practice having level 3 conversations:
+        * Level 1: Informal conversation/ data exchange
+        * Level 2: have some emotions/talk about something personal
+        * Level 3: They are relational/ they are engaged with something that is happening right now, something that matter. (In a startup there are a lot of things that matter and should be talked about)
+* Questions to start with:
+    * Goals:
+        * What are our short term goals for the company?
+        * Are we using the right metrics?
+        * Are we hitting our goals?
+    * Roles:
+        * Is it clear who is responsible for what?
+        * Do we agree that the current division makes the most sense?
+    * Performance:
+        * Is our workload distributed in an optimal manner today?
+        * Do we all feel a high level of dedication and motivation?
+        * What mechanisms are there in place to for providing feedback to each other?
+* Summary:
+    * Everyone fights, make a plan.
+    * Figure out roles, goals and a process before commons get involved.
+    * Start having hard conversations now.
+    * Use non violent communications to share honest feedback without criticism.
+    * Pay down emotions debt regularly.
+
 #### WEEK 6
 ### [Building Culture](https://www.startupschool.org/videos/72)
 
