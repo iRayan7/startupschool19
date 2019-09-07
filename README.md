@@ -498,7 +498,64 @@ Notes from Y Combinator's Online Startup School 2019
     6. Put a hiring process into practice, plan to evolve it.
 * It’s not too early to start today!
 
-### When and How to Pivot
+### [All About Pivoting](https://www.startupschool.org/videos/73)
+
+* What is a pivot?
+    * Changing your product.
+* A company that is not quickly ideating and rapidly learning and changing in the beginning is probably not moving fast enough.
+* Opportunity lost: “the loss of the potential gain from other alternatives when one alternative is chosen."
+* Good reasons to pivot:
+    * I hate working on it.
+    * It’s not growing.
+    * I’m not a good fit to be working on this idea.
+    * I’m relying on an external factor outside of my control to make my startup take off.
+    * I’m out of ideas on what to do differently to make it start working.
+* Good reasons **not** to pivot:
+    * You are trying to run away from doing hard work.
+    * You are repeatedly changing ideas and giving up on them before launching and doing sales.
+    * You read an article about some hot new trend that is popular with investors and want to chase it.
+* Why people take too long to pivot?
+    * Loss aversion (when feel you have invested a lot in something and have a hard time letting go.
+    * Have a little bit of attraction.
+    * People are very polite and have a hard time telling you they don’t like the thing you are working on.
+    * Fear of admitting weakness/defeat.
+    * Putting blame re:why things aren’t working on customers/investors.
+    * Belief given to you by inspirational sources that “if you believe hard enough things are going to change”
+* Reminder about product market fit
+    * Most people never get it
+    * You know you have it when growth is not your biggest problem — keeping up with demand is.
+    * If you don’t have PMF and you have given an idea your best then it can be easier to get PMF by changing ideas than continuing to throw good time/money after bad.
+    * “shots on goal"
+* How to find a better idea:
+    * Try to find something the founders are more excited about and makes them feel more optimistic to work on it.
+    * Corollary: being more ambitious is often counter-intuitively easier.
+    * Honest assessment of founders strengths/weaknesses and attempt to find something with better founder make-fit.
+    * Best to find something easy to get started and validate market feedback.
+    * It OK to work on an idea that doesn’t require VC:
+        * Most companies in the world that people start don’t require VC. That’s good.
+        * Trying to raise money for a company where VC doesn’t make sense is not a great use of anyones time.
+        * If the way you evaluate the quality of an idea is from investors you are going to get pushed down the VC rabbit hole.
+* When is the best time to pivot?
+    * ASAP when these things happen:
+        * You have launched and have been trying to get users for weeks or months and it feels hopeless.
+        * When the idea is impossible to get started on b/c it takes years of building/too much capital etc.
+        * You know in your heart its not going to work.
+* More pivoting thoughts:
+    * Pivoting over and over and over again can cause whiplash.
+        * Whiplash makes founders give up -> kills the company.
+    * Founders that are incapable of changing ideas struggle, founders that change ideas too much struggle. Find the happy medium.
+    * Having employees while pivoting is extra hard and not recommended — best to do it with just founders.
+* Idea quality scores:
+    * How big of an idea it seems to be: 1-10
+    * Founder/market fit: 1-10
+    * How easy is it to get started on the idea: 1-10
+    * Early market feedback from the customers: 1-10
+    * Overall score: 0-10
+*  Summary:
+    * Changing your idea is part of doing a startup, and the earlier you lock into the right ideas the better.
+    * When you are considering a pivot it should not feel like some huge monumental decision.
+    * You should follow pivoting best practices.
+
 #### WEEK 7
 ### How to Improve Conversion Rates
 ### Intro to Pricing
