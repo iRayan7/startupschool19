@@ -533,7 +533,7 @@ Notes from Y Combinator's Online Startup School 2019
     * Best to find something easy to get started and validate market feedback.
     * It OK to work on an idea that doesn’t require VC:
         * Most companies in the world that people start don’t require VC. That’s good.
-        * Trying to raise money for a company where VC doesn’t make sense is not a great use of anyones time.
+        * Trying to raise money for a company where VC doesn’t make sense is not a great use of anyone's time.
         * If the way you evaluate the quality of an idea is from investors you are going to get pushed down the VC rabbit hole.
 * When is the best time to pivot?
     * ASAP when these things happen:
@@ -557,7 +557,21 @@ Notes from Y Combinator's Online Startup School 2019
     * You should follow pivoting best practices.
 
 #### WEEK 7
-### How to Improve Conversion Rates
+### [How to Improve Conversion Rates](https://www.startupschool.org/videos/74)
+
+* Working on churn is easier than working on conversion.
+* To solve design (UI) problems:
+    *  You either have to do one of each -> decrease knowledge || increase knowledge.
+    * For landing pages do the one button exercise: if I have only one button in a page and I want users to click it. What information should I put in there to make them click it? and what information I need to remove that makes them not click it?
+* 7 questions to ask your self to improve conversion rates:
+    * What’s the call to action? (a button to click that should be right beside the Magic Moment “the moment your user understands and feels the most excited about your product”)
+    * What is it? (the magic moment it might be a sentence that could be put in an email and sent to your mom and she will understand the product )
+    * Is it right for me? (am I in the right place? Is there any reflection in this of me?)
+    * Is it legit? (normal template would solve this. don’t overthink it)
+    * Who else is using it? (it’s a short cut for the previous two questions. If so and so are using it, I might give it a chance)
+    * How much is it? What’s the catch? (have some empathy and show how much it costs)
+    * Where can I get help? (FAQ are not enough. People wanna talk to someone or at least know that they can talk to someone)
+
 ### Intro to Pricing
 #### WEEK 8
 ### How to Prioritize Your Time
