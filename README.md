@@ -572,7 +572,32 @@ Notes from Y Combinator's Online Startup School 2019
     * How much is it? What’s the catch? (have some empathy and show how much it costs)
     * Where can I get help? (FAQ are not enough. People wanna talk to someone or at least know that they can talk to someone)
 
-### Intro to Pricing
+### [Startup Pricing 101](https://www.startupschool.org/videos/75)
+
+* 1% of effort in optimizing monetization might give you up to 12.7% in growth. Compared to the 1% in Acquisition will give you 3.32% and in retention the 1% will give you 6.71%.
+* <img src="https://uc3292f596a2b81ed485c867a229.previews.dropboxusercontent.com/p/pdf_img/AAiBhO2Qq-ObTQ-46XRvBxVqptb2QKtRxN3hO7ykXX7bzDzibzC5TOMbaGithZDbSQ83wwPZJVNhR3LP2KcZilFC8NGgeTX2SJGA84WYug85k3T0GUYcwvl9Un0JBPqJEBVSNOaEVo3L577_YcUvYLGdG97WKFSzyYKjUU_WVoZt5VsJKIjEKpIGkzHNEHaCz96eacehdDD22xhOqu2B7XeMan30uOZZV8S21I3h-5dKwQ1jk7Q-9RNn0ijFjol8gF1c_q3cNPTJYSl87bt0ciI2fS2Akth_Yd4ykBloL6mLy160oozOt-I6EjOAQ2Hy1mq0p1K-YHGBvCJTROgdArRFeDoP_MguFF9Zt4lgaIpLsdxOiRZgirCajoVeeIwyATY/p.png?page=3&scale_percent=0" width="350" />
+* Companies that don’t price the product with neither "value based pricing” nor “cost plus” models will face one or more of these mistakes:
+    * **Prices are too low.**
+    * **Underestimate you cost.** (your margins are not enough to cover acquisition)
+    * **Don’t understand your value.** (you don’t understand your value, or you don’t know how to convince users of the value your product provide)
+    * Focus on the wrong customers
+* Demand doesn’t accelerate until the first 2% to 5% of potential buyers adopt the product.
+* Why is pricing innovation hard?
+    * Innovations requires users to change patterns.
+    * Average user lacks knowledge and trust to make that change.
+    * Early adopters place highest value on potential benefits.
+* 10 - 5 - 20 Rule:
+    * Value = 10x Price
+    * Raise price 5%
+    * Until 20% push back
+* Summary:
+    * Pricing gives the most bang for effort
+    * Understand the variables (const, price, value)
+    * Go after early adopters. Benefit > Price
+    * Get organized when optimizing pricing.
+    * Price determines acquisition strategy
+    * Use the 10 / 5 / 20 Rule
+
 #### WEEK 8
 ### How to Prioritize Your Time
 ### How to Evaluate Startup Ideas Pt. 2
