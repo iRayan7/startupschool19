@@ -599,7 +599,48 @@ Notes from Y Combinator's Online Startup School 2019
     * Use the 10 / 5 / 20 Rule
 
 #### WEEK 8
-### How to Prioritize Your Time
+### [How to Prioritize Your Time](https://www.startupschool.org/videos/76)
+* Real vs. Fake Progress
+    * Primary KPI: Revenue or Active users
+    * Set weekly goal for primary KPI
+    * What usually moves the progress: Taking to users and building product
+    *  [Add slide for fake progress]
+* Task prioritization
+    * Journal every hour of last week’s time used to work on your company. Be honest and write down what did this hour contribute to your company’s progress.
+    * Keep a list of ideas that would move you primary KPIs.
+    * Talking to users: 
+        * Helps you to convert them into customers and revenue.
+        * Helps you understand if you are in the right track or not.
+        * Helps you figure out your product’s road map.
+    * Building product:
+        * Delivers a solution to the user to see if it converts into more customers and revenue.
+    * Go over the list every week and rate every task on priority: High, medium, Low.
+    *  Go over the list every week and rate every task on complexity: High (Might take more than a week), medium(1-2 days), Low(Do in less than a day).
+* How well am I prioritizing?
+    * Hitting your weekly goals consistently.
+    * Weekly updates and being really honest and consistent about it
+        * Primary KPI (Actual vs Goal)
+        * Biggest obstacle to grow
+        * Tasks accomplished + impact
+        * Big learnings
+    * Every once in while review your updates and check for:
+        * Learning fast?
+        * Low value work creep in?
+        * Consistent blockers to grow?
+        * Complementing tasks in timely manner?
+    * Finding your self always not completing tasks?
+        * Your tasks are too complex. Break it down into smaller tasks.
+        * [link to pg makers managers schedule]
+* The art of moving fast = Decisiveness
+    * In the beginning of your startup your primary objective is to move fast and prove that you are building something people want.
+    * The faster you figure this out that faster you pivot into something or have the confidence that you have PMF to start scaling and make a huge business.
+    * Making decisions thoughtfully and quickly is super important. Time is often waisted in decisiveness.
+    * The key is to be OK with making a wrong choice and learning fast. 
+    * The person that chooses the wrong task to work on today but moves quickly, learns why it’s wrong and moves to the right one.
+* Summary: 
+    * Always be working on thing that directly that impacts your primary KPI.
+    * Do the thing that have the highest impact to meeting your weekly goals. That usually always means: Talking to users and building your product!   
+
 ### How to Evaluate Startup Ideas Pt. 2
 #### WEEK 9
 ### Advice for Hardtech and Biotech Startups
