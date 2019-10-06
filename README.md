@@ -641,7 +641,32 @@ Notes from Y Combinator's Online Startup School 2019
     * Always be working on thing that directly that impacts your primary KPI.
     * Do the thing that have the highest impact to meeting your weekly goals. That usually always means: Talking to users and building your product!   
 
-### How to Evaluate Startup Ideas Pt. 2
+### [How to Evaluate Startup Ideas Pt. 2](https://www.startupschool.org/videos/77)
+* How do I package up my idea and present them to an investor?
+* Good investors are looking for these things when hearing a pitch:
+    * Do I understand idea?
+    * Am I excited by idea?
+    * Do I like the team?
+* A clear idea is the foundation for growth
+    * Every great company grow organically. By WOM.
+* You should have a clear way to describe your startup for people who know nothing about your business to understand it.
+* You will talk about your startup more than anything else! have a clear way to describe it with.
+* Avoid: Ambiguity(the apposite of clear), Complexity, Mystery (Unknown nouns), Ignorable (some language people will just ignore)
+* Great pitch characteristics:
+    * Conversational. We talk like normal people not like CEOs all the time. Good for WOM.
+    * No Jargon. Words that are only used by your industry.
+    * No Preamble.
+    * Reproducible. I should understand these from your pitch: What are you making? What is the problem? Who is the customer?
+    * Good examples:
+        * Airbnb is the first online marketplace that lets travelers book rooms with locals, instead of hotels.
+        * Dropbox synchronizes files across your/your team’s computers.
+        * Vahan is building LinkedIn to the next billion internet users.
+            * Should I use x for y?
+                * X is a household name
+                * Does Y want X?
+                * Y should be a huge market
+* Lead with what. Not why or how.
+
 #### WEEK 9
 ### Advice for Hardtech and Biotech Startups
 ### Intro to Modern Startup Investments
