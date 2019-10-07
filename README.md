@@ -668,8 +668,31 @@ Notes from Y Combinator's Online Startup School 2019
 * Lead with what. Not why or how.
 
 #### WEEK 9
+### [Safe Financing Documents](https://www.ycombinator.com/documents/#safe)
+* The basics:
+    * Form a corporation
+    * Need money to grow?
+    * Sell a part of the company to raise money
+    * [teem means slides]
+    *  Valuation = The value of your enterprise
+    * Dilution = Stock. How much of your company you have sold.
+* Old way of raising early money:
+    * Series A preferred stock financing
+        * Valuation / outstanding shares = price per share
+        * Sell to investors - angel groups
+        * Negotiate terms of preferred stock
+        * Lots of documents!
+* Modernization of the convertible:
+    * Simple Agreement for Future Equity
+        * Because it doesn’t make sense to use debt to sell equity
+        * Investors don’t want to be lenders, startups don’t want to be borrowers.
+        * [YC’s Safe Financing Documents](https://www.ycombinator.com/documents/#safe)
+* Summary: 
+    * Modern early stage rounds of financing are usually done using convertible securities, like the safe.
+    * Selling preferred stock in priced rounds of financing is still modern, but not for first fundraising.
+    * Point of fast, flexible, cheap fundraising resources = founders focus on building
+    * What is standard in Silicon Valley is still novel in other areas.
 ### Advice for Hardtech and Biotech Startups
-### Intro to Modern Startup Investments
 #### WEEK 10
 ### How to Talk to Investors About Your Startup
 ### How to Become a $100B Company
