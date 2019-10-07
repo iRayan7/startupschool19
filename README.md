@@ -673,8 +673,8 @@ Notes from Y Combinator's Online Startup School 2019
     * Form a corporation
     * Need money to grow?
     * Sell a part of the company to raise money
-    * ![](/assets/1.png")
-    * ![](/assets/2.png")
+    * ![](/assets/1.png)
+    * ![](/assets/2.png)
     *  Valuation = The value of your enterprise
     * Dilution = Stock. How much of your company you have sold.
 * Old way of raising early money:
