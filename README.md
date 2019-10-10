@@ -693,7 +693,49 @@ Notes from Y Combinator's Online Startup School 2019
     * Selling preferred stock in priced rounds of financing is still modern, but not for first fundraising.
     * Point of fast, flexible, cheap fundraising resources = founders focus on building
     * What is standard in Silicon Valley is still novel in other areas.
-### Advice for Hardtech and Biotech Startups
+### [Advice for Hardtech and Biotech Startups](https://www.startupschool.org/videos/78)
+* That is a hard-tech company?
+    1. It will take a lot of time and money to build the first product
+    2. It may or may not be possible to build it
+* Market risk: Do people want it?
+* Technical risk: Can we make it?
+* Why start a hard-tech company?
+    * “In many ways, it’s easier to start a hard company than an easy company” — Sam Altman
+* How do you make progress when you have a “heavy MVP”?
+    * Boom (fast airplanes)
+        * Do things that don’t cost money
+            * Assemble a team of top advisors (to give them credibility)
+            * Build computer simulations (to show that they have a design that could work)
+            * Build a plastic model (to show it around)
+            * Show customer demand (get people excited)
+    * Solugen (some chemical stuff)
+        * Start small
+    * AirX (medical device)
+        * Launch a simplified version 
+        * Original plan: 
+            * Medical device
+            * 3 years to get FDA approval
+        * New plan:
+            * Use existing medical device
+            * Write software
+            * Zero FDA approval
+    * Notable Labs (new drug for cancer)
+        * Bootstrap with a service
+        * Long-term vision: develop new drugs for cancer
+        * Hack to get started: provide tumor screening services
+    * Astanis (satellites)
+        * Start with a proof of concept
+    * Ginkgo Bioworks
+        * Sell it before you make it
+* How do you prove people will want your product if you haven’t built it yet?
+    * Pre-sales: you sell your product before you build it.
+    * LOI: letter of intent. “Non-binding contract to buy your product when it’s ready”.
+        * How many units they will buy
+        * The price they will pay
+        * When they will buy
+        * What specs your product needs to achieve
+*   The way to accomplish incredibly ambitious things is to break them into very small steps.
+
 #### WEEK 10
 ### How to Talk to Investors About Your Startup
 ### How to Become a $100B Company
