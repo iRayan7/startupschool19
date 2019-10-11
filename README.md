@@ -737,6 +737,71 @@ Notes from Y Combinator's Online Startup School 2019
 *   The way to accomplish incredibly ambitious things is to break them into very small steps.
 
 #### WEEK 10
-### How to Talk to Investors About Your Startup
-### How to Become a $100B Company
-GRADUATION
+### [How to Lead](https://www.startupschool.org/videos/81)
+* Managers come in all shapes and sizes. Anyone can be a manager.
+* Be your self. Don’t imitate other people’s style of management. People can detect inauthenticity.
+* Great people share these 3 attributes:
+    * Think and communicate clearly.
+        * If you want other people to follow you. you have to paint a clear and compelling vision of the future for them to follow.
+        * As your company grows your communications have to get better and better with time. Because you’ve got more diverse people who are hearing it.
+        * Great communication needs to be simple. Simplicity in communications is very hard. It takes a lot of time and preparation to communicate simply.
+        * Clarity of thought precedes clarity of language. You have to think clearly to communicate clearly.
+        * Plan and practice your communication. Practice in front of a smaller audience. Get some coaching and feedback. It’s a fundamental skill.
+    * Good judgment about people.
+        *   Making constant bad decisions in empowering people will lead to diminishing the trust other people have in you.
+        * When you are trying to recruit for any position in your company: you should meet a lot of people. Even people who you have no hope of hiring because it’s important to get a sense of what a great leader/engineering leader/sales leader is like. Talk to them about their jobs and backgrounds and how they came to be where they are. How they lead people and what they think goes well and what doesn’t.
+        * Don’t cut corners. Spend time meeting people. Honing your instinct.
+        *  You will have to hire and recruit a lot of people. Some of them won’t work out. Make sure you view the hiring process as something you can learn from every single time.
+        * Be very diligent in terms of learning who you hired. Why you hired that person. What went right and what went wrong. In terms of their original hiring, onboarding and their career in the company.
+        * Be self reflective about the development of people in your organization and your choices as in who you are empowering with authority. 
+    * Strong personal integrity and commitment.
+        * Standing for something meaningful beyond them selfs. Being motivated by things outside their narrow personal interests. 
+        * Avoiding behavior that diminishes trust and credibility in a leader. Like favoritism, conflict of interests, inappropriate language, inappropriate work relationships.
+        * Commitment means making your work into a life mission in ways that inspires others. Giving it your all. People see this and respect it and follow it.
+        * You test this with the transparency test: Ask your self if all your private communications and behavior towards others. would be transparent to others in the company, would you be embarrassed about it? If every one saw everything you say and did, would you be embarrassed by any of it? we all make mistakes. But patterns of mistakes are bad.
+* The best way to measure great leaders is in terms of the amount of trust they are able to engender in the people who work for/with/around them.
+    * Trust is the success metric for leadership.
+    * The job of every leader is to build trust. Trust in employees, investors, customers, users and so on.
+    * Building trust is both an art and a science.
+        * The science: you have to be right about the empirical questions in your business.
+            * We should build this product. We should try to sell to this customer. We should market the product in this way.
+            * These things/choices over time get proven to be right or wrong. Hopefully you are right much more than you are wrong. Because if you are consistently wrong you diminish the amount of the trust people have in you.
+            * People often get the science part right.
+        * The art: Showing empathy. Good timing when you confront issues. Striving for something bigger than your self. Not being selfish or self centered.
+            *  It’s a delicate topic. Practice makes you better.
+*   With every step you take forward. Try to optimize for trust. You are gonna have lots of hard decisions to make. You have to fire people. Admit mistakes to customers. Saying no to people because you disagree with them and their ideas.
+* Try to view every challenge as an opportunity to increase the trust that people have in you as a leader. Ask your self which path/action would generate more trust in you as a leader and always choose that path/action.
+
+
+
+### [Parting Advice](https://www.startupschool.org/videos/86)
+*  Focus on what matters.
+    * What you’ve learned at SUS.
+    * Staying connected: updates, community.
+    * Making something people want.
+    * Metrics that measure your value.
+    * Surround your self with great people.
+    * Make a healthy and happy company and always moving forward.
+* Startups are hard!
+* Solve problems. Any problem that comes in your way. 
+* Default to action
+    * Write code. Talk to users.
+    * Don’t get sad. Go. Do.
+    * Make forward progress.
+    * Be ambitious. Take chances.
+    * Stay default alive.
+* "Don’t just not be evil. Be good.” —Paul Graham
+* Being good
+    * Be good to yourself (eat healthy. exercise)
+    * Be good to your cofounders
+    * Be good to your employees (choose a culture and values that are positive. Make your company a happy, exciting place to work)
+    * Be good to your customers
+    * Be good to your investors
+    * Be good for the world
+*  Summary
+    * Find your path.
+    * Focus on what matters.
+    * Things will go wrong: be determined and resourceful in the face of adversity.
+    * Default to action.
+    * Be good. (create the kind of company you want to work at)
+
