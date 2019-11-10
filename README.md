@@ -39,7 +39,7 @@ Notes from Y Combinator's Online Startup School 2019
                 * Acquisition [$0 -cost to acquire new users-] (can’t count paid channels here!) (WOM is the best)
                 * Monopoly [growth = harder for others to defeat you] ( growth of network = growth of company value, marketplaces where one company can win it)
           * (Good examples of unfair advantages in slides!)
-* 👨‍💻 Amazing talk overall. I think every one should watch it. Even if you don't currently have a startup idea.
+* 👨‍💻 Amazing talk overall. I think everyone should watch it. Even if you don't currently have a startup idea.
 
 ### [How to Talk to Users](https://www.startupschool.org/videos/63)
 * Good founders maintain a direct connection to their users. ( To extract info from your users throughout the different stages of a company )
@@ -55,7 +55,7 @@ Notes from Y Combinator's Online Startup School 2019
     2. Tell me about the last time you encountered that problem… (context)
     3. Why was that hard? (To know how to explain the value to new customers) (Users buy the Why not the What)
     4. What, if anything, have you done to try to solve the problem? (is the problem burning enough for others to consider your solution. what your solution will be compared to)
-    5. What don’t you love about the solution you’ve tried? (basis of you feature set)
+    5. What don’t you love about the solution you’ve tried? (basis of your feature set)
 * Talking to users is useful at all stages:
     * Got idea? -> _find users with problem_
         * _Idea Stage_
@@ -167,7 +167,7 @@ Notes from Y Combinator's Online Startup School 2019
         * [fullstory](https://www.fullstory.com/): to watch how users interact with your product.
         * Small usability issues might drive metrics down!
     * 43-min founder email:
-        * [customer.io](https://cutomer.io): you can specify a certain amount time to send an email from founders after user signup.
+        * [customer.io](https://cutomer.io): you can specify a certain amount of time to send an email from founders after user signup.
         * A way to start the connection between you and the users.
     * Democratize data access:
         * [Google big query and Mode](https://mode.com/big-query/): to find answers to questions normal data analytics tools can’t answer.
@@ -201,7 +201,7 @@ Notes from Y Combinator's Online Startup School 2019
         * Metrics:
             * MRR
             * MRR CMGR (Compound monthly growth rate): (latest month MRR / first month MRR) ^ (1/ # of months) -1.
-            * Gross user churn: total lost customers (cancelled subscriptions) in a given period / prior period total customers.
+            * Gross user churn: total lost customers (canceled subscriptions) in a given period / prior period total customers.
             * Paid CAC
     * Transactional:
         * Enables a financial transaction on behalf of a customer and collects a fee.
@@ -251,7 +251,7 @@ Notes from Y Combinator's Online Startup School 2019
 
 ### [How Investors Measure Startups Q&A](https://www.startupschool.org/videos/85)
 *  How investors measure startups at early stages?
-    * Team (Most important) (Why your are working on this idea? your clarity of thought? How good are you with convincing others? If an investor gives you capital you know what to do with it?) 
+    * Team (Most important) (Why you are working on this idea? your clarity of thought? How good are you with convincing others? If an investor gives you capital you know what to do with it?) 
     * Product market fit
     * Market opportunity 
 * When to fundraise?
@@ -376,7 +376,7 @@ Notes from Y Combinator's Online Startup School 2019
     * Expenses don’t remain constant:
         * undervaluing your own time
         * Hiring people doesn’t just cost their salary (equipments, health insurance, office space)
-        * Assuming paid acquisition remain constant (in the early days you might find users who are excited to use your product, and over time it gets harder to find and convert users. Assume and predict the worst case scenario so you can manage it well)
+        * Assuming paid acquisition remains constant (in the early days you might find users who are excited to use your product, and over time it gets harder to find and convert users. Assume and predict the worst case scenario so you can manage it well)
         * Don’t ignore to make runway look good! (numbers don’t lie and money will finish eventually)
 * Out-sourcing responsibility:
     * It’s recommended to outsource bookkeeping and focus on what really matters. But at the same time you as a founder/CEO are the one responsible for the numbers.
@@ -441,7 +441,7 @@ Notes from Y Combinator's Online Startup School 2019
     * Practice having level 3 conversations:
         * Level 1: Informal conversation/ data exchange
         * Level 2: have some emotions/talk about something personal
-        * Level 3: They are relational/ they are engaged with something that is happening right now, something that matter. (In a startup there are a lot of things that matter and should be talked about)
+        * Level 3: They are relational/ they are engaged with something that is happening right now, something that matters. (In a startup there are a lot of things that matter and should be talked about)
 * Questions to start with:
     * Goals:
         * What are our short term goals for the company?
@@ -578,7 +578,7 @@ Notes from Y Combinator's Online Startup School 2019
 * <img src="https://uc3292f596a2b81ed485c867a229.previews.dropboxusercontent.com/p/pdf_img/AAiBhO2Qq-ObTQ-46XRvBxVqptb2QKtRxN3hO7ykXX7bzDzibzC5TOMbaGithZDbSQ83wwPZJVNhR3LP2KcZilFC8NGgeTX2SJGA84WYug85k3T0GUYcwvl9Un0JBPqJEBVSNOaEVo3L577_YcUvYLGdG97WKFSzyYKjUU_WVoZt5VsJKIjEKpIGkzHNEHaCz96eacehdDD22xhOqu2B7XeMan30uOZZV8S21I3h-5dKwQ1jk7Q-9RNn0ijFjol8gF1c_q3cNPTJYSl87bt0ciI2fS2Akth_Yd4ykBloL6mLy160oozOt-I6EjOAQ2Hy1mq0p1K-YHGBvCJTROgdArRFeDoP_MguFF9Zt4lgaIpLsdxOiRZgirCajoVeeIwyATY/p.png?page=3&scale_percent=0" width="350" />
 * Companies that don’t price the product with neither "value based pricing” nor “cost plus” models will face one or more of these mistakes:
     * **Prices are too low.**
-    * **Underestimate you cost.** (your margins are not enough to cover acquisition)
+    * **Underestimate your cost.** (your margins are not enough to cover acquisition)
     * **Don’t understand your value.** (you don’t understand your value, or you don’t know how to convince users of the value your product provide)
     * Focus on the wrong customers
 * Demand doesn’t accelerate until the first 2% to 5% of potential buyers adopt the product.
@@ -607,7 +607,7 @@ Notes from Y Combinator's Online Startup School 2019
     * ![](/assets/3.png)
 * Task prioritization
     * Journal every hour of last week’s time used to work on your company. Be honest and write down what did this hour contribute to your company’s progress.
-    * Keep a list of ideas that would move you primary KPIs.
+    * Keep a list of ideas that would move your primary KPIs.
     * Talking to users: 
         * Helps you to convert them into customers and revenue.
         * Helps you understand if you are in the right track or not.
@@ -630,16 +630,16 @@ Notes from Y Combinator's Online Startup School 2019
         * Complementing tasks in timely manner?
     * Finding your self always not completing tasks?
         * Your tasks are too complex. Break it down into smaller tasks.
-        * [link to pg makers managers schedule]
+        * [Maker's Schedule, Manager's Schedule - Paul Graham](http://www.paulgraham.com/makersschedule.html)
 * The art of moving fast = Decisiveness
     * In the beginning of your startup your primary objective is to move fast and prove that you are building something people want.
-    * The faster you figure this out that faster you pivot into something or have the confidence that you have PMF to start scaling and make a huge business.
-    * Making decisions thoughtfully and quickly is super important. Time is often waisted in decisiveness.
+    * The faster you figure this out the faster you pivot into something or have the confidence that you have PMF to start scaling and make a huge business.
+    * Making decisions thoughtfully and quickly is super important. Time is often waisted indecisiveness.
     * The key is to be OK with making a wrong choice and learning fast. 
     * The person that chooses the wrong task to work on today but moves quickly, learns why it’s wrong and moves to the right one.
 * Summary: 
     * Always be working on thing that directly that impacts your primary KPI.
-    * Do the thing that have the highest impact to meeting your weekly goals. That usually always means: Talking to users and building your product!   
+    * Do the thing that has the highest impact to meeting your weekly goals. That usually always means: Talking to users and building your product!   
 
 ### [How to Evaluate Startup Ideas Pt. 2](https://www.startupschool.org/videos/77)
 * How do I package up my idea and present them to an investor?
@@ -648,7 +648,7 @@ Notes from Y Combinator's Online Startup School 2019
     * Am I excited by idea?
     * Do I like the team?
 * A clear idea is the foundation for growth
-    * Every great company grow organically. By WOM.
+    * Every great company grows organically. By WOM.
 * You should have a clear way to describe your startup for people who know nothing about your business to understand it.
 * You will talk about your startup more than anything else! have a clear way to describe it with.
 * Avoid: Ambiguity(the apposite of clear), Complexity, Mystery (Unknown nouns), Ignorable (some language people will just ignore)
@@ -758,7 +758,7 @@ Notes from Y Combinator's Online Startup School 2019
         * Standing for something meaningful beyond them selfs. Being motivated by things outside their narrow personal interests. 
         * Avoiding behavior that diminishes trust and credibility in a leader. Like favoritism, conflict of interests, inappropriate language, inappropriate work relationships.
         * Commitment means making your work into a life mission in ways that inspires others. Giving it your all. People see this and respect it and follow it.
-        * You test this with the transparency test: Ask your self if all your private communications and behavior towards others. would be transparent to others in the company, would you be embarrassed about it? If every one saw everything you say and did, would you be embarrassed by any of it? we all make mistakes. But patterns of mistakes are bad.
+        * You test this with the transparency test: Ask your self if all your private communications and behavior towards others. would be transparent to others in the company, would you be embarrassed about it? If everyone saw everything you say and did, would you be embarrassed by any of it? we all make mistakes. But patterns of mistakes are bad.
 * The best way to measure great leaders is in terms of the amount of trust they are able to engender in the people who work for/with/around them.
     * Trust is the success metric for leadership.
     * The job of every leader is to build trust. Trust in employees, investors, customers, users and so on.
