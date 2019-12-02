@@ -266,7 +266,7 @@ Notes from Y Combinator's Online Startup School 2019
     * See how users respond to your product
     * Launching to different audiences: Are you talking to the right users?
 * Types of launches:
-    * Silent Launch (you can use [ship](https://www.producthunt.com/ship) or [carrd](https://carrd.co)
+    * Silent Launch (you can use [ship](https://www.producthunt.com/ship) or [carrd](https://carrd.co))
         * Domain name
         * Company name
         * Short description
