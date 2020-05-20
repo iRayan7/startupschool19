@@ -603,7 +603,7 @@ Notes from Y Combinator's Online Startup School 2019
 * Real vs. Fake Progress
     * Primary KPI: Revenue or Active users
     * Set weekly goal for primary KPI
-    * What usually moves the progress: Taking to users and building product
+    * What usually moves the progress: Talking to users and building product
     * ![](/assets/3.png)
 * Task prioritization
     * Journal every hour of last week’s time used to work on your company. Be honest and write down what did this hour contribute to your company’s progress.
